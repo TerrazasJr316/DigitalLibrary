@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DigitalLibrary</string>
+    <string name="app_title">B I B L I O T E C A\n\tTESJI</string>
+    <string name="app_formNum">No. Libro</string>
+    <string name="app_titleBook">Titulo de Libro</string>
+    <string name="app_by">Autor</string>
+    <string name="app_edition">Edición</string>
+    <string name="app_anio">Año</string>
+    <string name="app_ButtonRegistrer">R E G I S T R A R</string>
+    <string name="app_ButtonNew">N U E V O</string>
+</resources>
